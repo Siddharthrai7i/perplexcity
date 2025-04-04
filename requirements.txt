@@ -6,6 +6,6 @@ dotenv
 typing
 numpy
 pandas
-tavily>=0.3.0
+tavily-python>=0.3.0
 trafilatura
 google.generativeai

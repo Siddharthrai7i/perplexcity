@@ -6,6 +6,5 @@ dotenv
 typing
 numpy
 pandas
-tavily
 trafilatura
 google.generativeai

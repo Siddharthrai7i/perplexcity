@@ -4,7 +4,7 @@ import trafilatura
 
 
 settings=Settings()
-tavily_clint = TavilyClient(api_key=settings.SIDD_API_KEY)
+tavily_clint = TavilyClient(api_key=settings.TAVILY_API_KEY)
 
 class SearchService:
     def web_search(self , query:str):

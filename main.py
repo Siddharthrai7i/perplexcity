@@ -1,10 +1,10 @@
 from fastapi import FastAPI , WebSocket 
 import asyncio
 
-from pydantic_models.chat_body import ChatBody
-from services.search_service import SearchService
-from services.sort_source_service import SortSourceService
-from services.llm_service import LLMService
+from chat_body import ChatBody
+from search_service import SearchService
+from sort_source_service import SortSourceService
+from llm_service import LLMService
 
 
 

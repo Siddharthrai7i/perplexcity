@@ -8,3 +8,4 @@ numpy
 pandas
 trafilatura
 google.generativeai
+pydantic_settings

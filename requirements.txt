@@ -9,3 +9,4 @@ pandas
 trafilatura
 google.generativeai
 pydantic_settings
+tavily-python
